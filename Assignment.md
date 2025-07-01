@@ -9,11 +9,11 @@ bill.chakairu@strathmore.edu
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-lizztt/
 
 ## 3. Learnings from the Git Crash Program
 
-![Assignment-page](img/bill/assignment.png)
+<!-- ![Assignment-page](img/bill/assignment.png) -->
 
 **1. Concept: Naming Conventions**
 Expectation: I expected a Git & GitHub refresher course. To help me understand how to collaborate in teams and track project history professionally.
@@ -56,7 +56,7 @@ Impact: I deployed the group's portfolio website using GitHub Pages. It was fast
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![alt text](image.png)
 
 ### C. Branching
 

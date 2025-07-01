@@ -2,58 +2,61 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
-
+Chakairu, Bill Gichuru
+151339
+Lizztt
+bill.chakairu@strathmore.edu
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-lizztt/
 
 ## 3. Learnings from the Git Crash Program
 
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-For each one, mention:
+<!-- ![Assignment-page](img/bill/assignment.png) -->
 
-What you thought it would be like **(Expectation 👀)**
+**1. Concept: Naming Conventions**
+Expectation: I expected a Git & GitHub refresher course. To help me understand how to collaborate in teams and track project history professionally.
 
-What you actually learned **(Reality 😅)**
+Reality: I learnt a lot of conventional practices including how to name commits, branches, issues, and pull requests eg. using names such as feature/2-bill for branches and key words such as feat, fix and docs in commits.
 
-And how it helped with your personal portfolio project 💻
+Impact: I created a branch named feeature/2-bill-profile to work on issue 2 which involved adding a personal portfolio section for Bill.
 
-make it honest—and if it surprised you, even better!
+![create_branch](img/bill/create_branch.png)
 
-Example format:
+**2. Concept - Branch Security**
+Expectation: I assumed security in GitHub was mostly about keeping your username and password safe. 
 
-**🧠 What I Thought I'd Learn vs What I Actually Learned**
-**1. Concept: Branching**
+Reality: I was surprised to learn that GitHub allows deeper project-level access controls. Admins can enforce rules such as restricting who can delete branches, requiring pull request reviews before merging, and even blocking direct pushes to the main branch.
 
-`Expectation 👀` : I thought branching was just for developers working on big apps—nothing I’d need for a small project.
+Impact: I implemented branch protection rules on the main branch. This included requiring at least one approved review before a merge and preventing accidental deletions.
 
-`Reality 😅`: Turns out even solo devs need branches! It helped me avoid breaking my main code while testing new designs.
+![branch_rules](img/bill/branch_rules.png)
 
-`Impact 💡`: I created a feature branch for my "About Me" section and merged it smoothly into the main branch after testing. Super useful!
+**3. Concept -  Pull Requests**
+Expectation: I thought collaboration in GitHub was about pushing and pulling directly from the main branch after working on feature branches.
 
-## 4. Screenshots of Key GitHub Features
+Reality: I learnt that better collaboration is done through pull requests. These allow teammates to review, comment and approve changes before merging the code to the main branch.
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
+Impact: I created a number of pull requests for my tasks.
 
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
+**4. Concept: Deploying project through GitHub**
+Expectation: I normally deploy website on other hosting services.
 
-```markdown
-![Caption](path/to/your/image.png)
-```
+Reality: I learnt that you could deploy your website through GitHub Pages.
+
+Impact: I deployed the group's portfolio website using GitHub Pages. It was fast and easy to deploy.
+
+
 
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+![create_milestone](img/bill/create_milestone.png)
+![create_issue](img/bill/create_issue.png)
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![alt text](image.png)
 
 ### C. Branching
 
